@@ -1,15 +1,18 @@
-# bookmarks
-## about me
+# about me
 [ekakiya.jp](http://ekakiya.jp)  
+
+## contact
 [twitter/ekakiya](https://twitter.com/ekakiya)  
 [facebook/ekakiya](https://www.facebook.com/ekakiya)  
 [linkedIn/katsuhiko-omori](http://www.linkedin.com/pub/katsuhiko-omori/35/516/480)  
   
-### exposure
-animate [short animation resume](http://ekakiya.jp/resume/)  
+## exposure
+animation [short animation resume](http://ekakiya.jp/resume/)  
 tech presentation [pbr in unity @tech blog 2019](https://techblog.sega.jp/entry/2019/04/25/100000), [shader for game art @ GCS2013](https://www.slideshare.net/SIGTART/ss-23467131), [blender use case 2011](https://www.blendernation.com/2011/04/14/blender-being-used-for-segas-virtual-tennis-4/)  
 park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g295424-d12494531-Reviews-Orbi_Dubai-Dubai_Emirate_of_Dubai.html), [orbi osaka](https://www.tripadvisor.jp/Attraction_Review-g1023474-d9861538-Reviews-Orbi_Osaka-Suita_Osaka_Prefecture_Kinki.html), [orbi yokohama](https://www.tripadvisor.jp/Attraction_Review-g14134875-d4809623-Reviews-Orbi_Yokohama-Minatomirai_Nishi_Yokohama_Kanagawa_Prefecture_Kanto.html), [animal selfie](https://www.youtube.com/watch?v=mpecVvdYIKw)  
   
+  
+# bookmarks
 ## art
 [art station](https://www.artstation.com/?sort_by=community)  
   
