@@ -1,4 +1,4 @@
-# bookmark
+# bookmarks
 ## about me
 [ekakiya.jp](http://ekakiya.jp)  
 [twitter/ekakiya](https://twitter.com/ekakiya)  
@@ -7,8 +7,8 @@
   
 ### exposure
 animate [short animation resume](http://ekakiya.jp/resume/)  
-tech presentation [pbr in unity @tech blog 2019](https://techblog.sega.jp/entry/2019/04/25/100000) [shader for game art @ GCS2013](https://www.slideshare.net/SIGTART/ss-23467131) [blender use case 2011](https://www.blendernation.com/2011/04/14/blender-being-used-for-segas-virtual-tennis-4/)  
-park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g295424-d12494531-Reviews-Orbi_Dubai-Dubai_Emirate_of_Dubai.html) [orbi osaka](https://www.tripadvisor.jp/Attraction_Review-g1023474-d9861538-Reviews-Orbi_Osaka-Suita_Osaka_Prefecture_Kinki.html) [orbi yokohama](https://www.tripadvisor.jp/Attraction_Review-g14134875-d4809623-Reviews-Orbi_Yokohama-Minatomirai_Nishi_Yokohama_Kanagawa_Prefecture_Kanto.html) [animal selfie](https://www.youtube.com/watch?v=mpecVvdYIKw)  
+tech presentation [pbr in unity @tech blog 2019](https://techblog.sega.jp/entry/2019/04/25/100000), [shader for game art @ GCS2013](https://www.slideshare.net/SIGTART/ss-23467131), [blender use case 2011](https://www.blendernation.com/2011/04/14/blender-being-used-for-segas-virtual-tennis-4/)  
+park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g295424-d12494531-Reviews-Orbi_Dubai-Dubai_Emirate_of_Dubai.html), [orbi osaka](https://www.tripadvisor.jp/Attraction_Review-g1023474-d9861538-Reviews-Orbi_Osaka-Suita_Osaka_Prefecture_Kinki.html), [orbi yokohama](https://www.tripadvisor.jp/Attraction_Review-g14134875-d4809623-Reviews-Orbi_Yokohama-Minatomirai_Nishi_Yokohama_Kanagawa_Prefecture_Kanto.html), [animal selfie](https://www.youtube.com/watch?v=mpecVvdYIKw)  
   
 ## art
 [art station](https://www.artstation.com/?sort_by=community)  
@@ -25,7 +25,7 @@ park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g29542
 [unity/lts-releases](https://unity3d.com/unity/qa/lts-releases)  
 [unity/script api](https://docs.unity3d.com/ScriptReference/index.html)  
 [unity/manual/package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
- [core rp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html) [urp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html) [hdrp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html) [burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html) [jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html) [hyb-rend](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
+	[core rp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html), [urp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html), [hdrp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html), [burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html), [jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html), [hyb-rend](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
 [unity/forum](https://forum.unity.com/)  
 [github/unity/graphics](https://github.com/Unity-Technologies/Graphics)  
 [github/unity/c# reference](https://github.com/Unity-Technologies/UnityCsReference)  
