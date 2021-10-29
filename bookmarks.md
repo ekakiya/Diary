@@ -40,17 +40,21 @@ park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g29542
 [blender/manual](https://docs.blender.org/manual/en/latest/)  
 [blender/python-api](https://docs.blender.org/api/2.91/)  
 [blender/release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
-[github/sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
+[g/sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
 #### add-ons : need for game dev
-[Bundle Exporter](https://gitlab.com/AquaticNightmare/bundle_exporter), [Magic Uv](https://docs.blender.org/manual/en/latest/addons/uv/magic_uv.html), [Quad Remesher](https://exoside.com/quadremesher/), [TexTools](https://github.com/SavMartin/TexTools-Blender), [Vertex Color Master](https://github.com/andyp123/blender_vertex_color_master)  
-[gist/simonbroggi/aod.osl](https://gist.github.com/simonbroggi/d2d8d8ca9b616f82666f52d7e5af5ef4): bake bent normal
+[Bundle Exporter](https://gitlab.com/AquaticNightmare/bundle_exporter) : export collections as axis corrected fbx for unity  
+[Magic Uv](https://docs.blender.org/manual/en/latest/addons/uv/magic_uv.html) : [doc](https://colorful-pico.net/wp/blender/add-ons/magic-uv/) : uv transfer  
+[Quad Remesher](https://exoside.com/quadremesher/) : nice remesh  
+[TexTools](https://github.com/SavMartin/TexTools-Blender) : edit uv, bake texture, consider texel per unit  
+[Vertex Color Master](https://github.com/andyp123/blender_vertex_color_master) : edit vertex color, use vcol as params  
+[gist/simonbroggi/aod.osl](https://gist.github.com/simonbroggi/d2d8d8ca9b616f82666f52d7e5af5ef4): bent normal shader. use with bake  
 #### add-ons : useful
 [PolyQuilt](https://github.com/sakana3/PolyQuilt), [autoRig](https://blendermarket.com/products/auto-rig-pro), [flipFluid](https://blendermarket.com/products/flipfluids), [SpeedFlow](https://blendermarket.com/products/speedflow), [X-Muscle System](https://blendermarket.com/products/x-muscle-system),  
 [unreal tools](https://github.com/JoshRBogart/unreal_tools): vat baker (need custom for unity. change (x,-y,z) to (-x,z,-y)),  
-[Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool), [Hair Tool doc](https://joseconseco.github.io/HairToolDocs_28/index.html),  
-[Garment Tool](https://bartoszstyperek.gumroad.com/l/GarmentTool), [Garment Tool doc](https://joseconseco.github.io/GarmentToolDocs/),  
-[DecalMachine](https://blendermarket.com/products/decalmachine), [MeshMachine](https://blendermarket.com/products/meshmachine), 
-[HardOps, BoxCutter](https://masterxeon1001.gumroad.com/l/hopscutter),
+[Hair Tool](https://bartoszstyperek.gumroad.com/l/hairtool) :[doc](https://joseconseco.github.io/HairToolDocs_28/index.html),  
+[Garment Tool](https://bartoszstyperek.gumroad.com/l/GarmentTool) :[doc](https://joseconseco.github.io/GarmentToolDocs/),  
+[DecalMachine](https://blendermarket.com/products/decalmachine), [MeshMachine](https://blendermarket.com/products/meshmachine),  
+[HardOps, BoxCutter](https://masterxeon1001.gumroad.com/l/hopscutter)  
 
 
 ### houdini
@@ -65,19 +69,19 @@ park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g29542
 [unity/manual/package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
 	[core rp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html), [urp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html), [hdrp](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html), [burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html), [jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html), [hyb-rend](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
 [unity/forum](https://forum.unity.com/)  
-[github/unity/graphics](https://github.com/Unity-Technologies/Graphics)  
-[github/unity/c# reference](https://github.com/Unity-Technologies/UnityCsReference)  
-[unity/productboard rendering](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects)
+[g/unity/graphics](https://github.com/Unity-Technologies/Graphics)  
+[g/unity/c# reference](https://github.com/Unity-Technologies/UnityCsReference)  
+[unity/productboard rendering](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects)  
 [unity/manual/order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html)  
 [unity japan/package name](https://helpdesk.unity3d.co.jp/hc/ja/articles/900002171066-Unity-2020-1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95?mobile_site=true)  
 .  
 [cat like coding/unity/tutorials](https://catlikecoding.com/unity/tutorials/)  
-[github/phi-lira](https://github.com/phi-lira?tab=repositories)  
-[github/aras-p](https://github.com/aras-p?tab=repositories), [gist/aras-p](https://gist.github.com/aras-p), [aras-p/blog](https://aras-p.info/blog/)  
+[g/phi-lira](https://github.com/phi-lira?tab=repositories)  
+[g/aras-p](https://github.com/aras-p?tab=repositories), [gist/aras-p](https://gist.github.com/aras-p), [aras-p/blog](https://aras-p.info/blog/)  
 [seblagarde/blog](https://seblagarde.wordpress.com/)  
-[github/kejiro](https://github.com/keijiro?tab=repositories)  
-[github/cinight](https://github.com/cinight?tab=repositories)  
-[github/unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
+[g/kejiro](https://github.com/keijiro?tab=repositories)  
+[g/cinight](https://github.com/cinight?tab=repositories)  
+[g/unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
 [mao_/blog](https://qiita.com/mao_)  
 [hekomi tips](https://tips.hecomi.com/)  
   
@@ -85,12 +89,12 @@ park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g29542
 [unreal/forum](https://forums.unrealengine.com/)  
 
 ### etc
-[github/intel gameTechDev](https://github.com/orgs/GameTechDev/repositories)  
-[github/mrtk](https://github.com/microsoft/MixedRealityToolkit-Unity)  
+[g/intel gameTechDev](https://github.com/orgs/GameTechDev/repositories)  
+[g/mrtk](https://github.com/microsoft/MixedRealityToolkit-Unity)  
 
 ### memo
 [about unity ecs @f_](https://www.f-sp.com/entry/2019/04/18/175747)  
-[about unity nativeArray](https://qiita.com/mao_/items/220ccf3b2ef929388036)  
+[about unity nativeArray @mao_](https://qiita.com/mao_/items/220ccf3b2ef929388036)  
 [about pBRDF @kurilab](https://qiita.com/kurilab/items/f9e48045bd1b9c130d0b)  
 [unity/animation instancing](https://github.com/Unity-Technologies/Animation-Instancing),   
 [import blender rigify rig to unity](https://dskjal.com/blender/rigify-to-unity.html)  
@@ -143,13 +147,13 @@ park design,etc [orbi dubai](https://www.tripadvisor.jp/Attraction_Review-g29542
 
 ## fun
 ### game
-[indieGameDev](https://indiegamesplus.com/)
-[denfami](https://news.denfaminicogamer.jp/)
-[automaton](https://automaton-media.com/)
-[4gamer](https://www.4gamer.net/)
+[indieGameDev](https://indiegamesplus.com/)  
+[denfami](https://news.denfaminicogamer.jp/)  
+[automaton](https://automaton-media.com/)  
+[4gamer](https://www.4gamer.net/)  
 
 ### news
-[47news](https://www.47news.jp/)
-[wired](https://wired.jp/)
+[47news](https://www.47news.jp/)  
+[wired](https://wired.jp/)  
 
 
