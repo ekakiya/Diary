@@ -6,6 +6,7 @@
 [facebook/Ekakiya](https://www.facebook.com/ekakiya)  
 [vimeo/Ekakiya](https://vimeo.com/ekakiya)  
 [linkedIn/Katsuhiko-omori](http://www.linkedin.com/pub/katsuhiko-omori/35/516/480)  
+[blenderartists/ekakiya](https://blenderartists.org/u/ekakiya)  
   
 ## media exposure
 ### animation
@@ -46,6 +47,7 @@
 
 ### blender
 [blender.org](https://www.blender.org/)  
+[blender/Blog](https://code.blender.org/)  
 [blender/Manual](https://docs.blender.org/manual/en/latest/)  
 [blender/Python-api](https://docs.blender.org/api/2.91/)  
 [blender/Release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
@@ -76,7 +78,7 @@
 [unity/LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
 [unity/Script api](https://docs.unity3d.com/ScriptReference/index.html)  
 [unity/Manual/Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
-	[Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html), [Hyb-renderer](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
+	[Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@1.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html), [Hyb-renderer](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
 [unity/Forum](https://forum.unity.com/)  
 [g/unity/Graphics](https://github.com/Unity-Technologies/Graphics)  
 [g/unity/C# reference](https://github.com/Unity-Technologies/UnityCsReference)  
@@ -116,6 +118,7 @@
   
 ### sweets
 [Pierre Herme](https://www.pierreherme.co.jp/product/)  
+[Demel cat](https://demel.co.jp/shop/)  
 [Kamakura Ogawaken](https://www.ogawaken.jp/item/)  
 [Romi-unie](https://www.romi-unie.jp/products/list)  
 [Misaki Donuts](http://misakidonuts.com/)  
