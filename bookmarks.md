@@ -71,19 +71,7 @@
 [DecalMachine](https://blendermarket.com/products/decalmachine), [MeshMachine](https://blendermarket.com/products/meshmachine),  
 [HardOps, BoxCutter](https://masterxeon1001.gumroad.com/l/hopscutter)  
 
-### houdini
-[Houdini Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/)  
 
-### cascadeur
-[Cascadeur](https://cascadeur.com/)  
-
-
-### slate editor
-[Facedown Fx](https://www.facedownfx.com/)  
-
-### metasequoia
-[metasequoia](https://www.metaseq.net/jp/)  
-  
 ### unity
 [unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
 [unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html)  
@@ -105,8 +93,13 @@
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi tips](https://tips.hecomi.com/)  
   
-### unreal
-[unreal/ Forum](https://forums.unrealengine.com/)  
+
+### other Tools
+[Houdini/ Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/)  
+[Cascadeur](https://cascadeur.com/)  
+[Slate Editor](https://www.facedownfx.com/)  
+[Unreal/ Forum](https://forums.unrealengine.com/)  
+
 
 ### net
 [Fast.com](https://fast.com/ja/)  
