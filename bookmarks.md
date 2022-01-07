@@ -46,6 +46,7 @@
 [C# mikakunin-hikou](https://ufcpp.net/study/csharp/)  
 [Data Oriented Design](https://www.dataorienteddesign.com/dodmain/)  
 [DirectX Shader Compiler wiki](https://github.com/microsoft/DirectXShaderCompiler/wiki/)  
+[Udemy](https://www.udemy.com/home/my-courses/learning/)  
 
 ### blender
 [blender.org](https://www.blender.org/)  
@@ -54,6 +55,7 @@
 [blender/ Python-api](https://docs.blender.org/api/2.91/)  
 [blender/ Release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
 [g/ Sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
+[blender.jp](https://blender.jp/)  
 #### add-ons : need for game dev
 [Bundle Exporter](https://gitlab.com/AquaticNightmare/bundle_exporter) : export collections as axis corrected fbx for unity  
 [Magic Uv](https://docs.blender.org/manual/en/latest/addons/uv/magic_uv.html) : [doc](https://colorful-pico.net/wp/blender/add-ons/magic-uv/) : uv transfer  
@@ -73,7 +75,14 @@
 [Houdini Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/)  
 
 ### cascadeur
-[Cascadeur](https://cascadeur.com/)
+[Cascadeur](https://cascadeur.com/)  
+
+
+### slate editor
+[Facedown Fx](https://www.facedownfx.com/)  
+
+### metasequoia
+[metasequoia](https://www.metaseq.net/jp/)  
   
 ### unity
 [unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
@@ -158,7 +167,7 @@
 [Cettire](https://www.cettire.com/)  
 [Worlds Library](https://www.worldlibrary.co.jp/library)  
 [Kinokuniya Books](https://www.kinokuniya.co.jp/disp/CSfDispListPageTop.jsp?dispNo=104002002001100)  
-[Aoyama Book Centor](https://aoyamabc.jp/pages/online-store)  
+[Aoyama Book Center](https://aoyamabc.jp/pages/online-store)  
 [Fangamer](https://www.fangamer.jp/)  
 [United Designers](https://www.uniteddesigners.ae/)  
 [Noda Horo](https://www.nodahoro.com/)  
