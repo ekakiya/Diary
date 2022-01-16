@@ -49,13 +49,14 @@
 [Udemy](https://www.udemy.com/home/my-courses/learning/)  
 
 ### blender
-[blender.org](https://www.blender.org/)  
+[Blender.org](https://www.blender.org/)  
 [blender/ Blog](https://code.blender.org/)  
 [blender/ Manual](https://docs.blender.org/manual/en/latest/)  
 [blender/ Python-api](https://docs.blender.org/api/2.91/)  
 [blender/ Release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
 [g/ Sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
-[blender.jp](https://blender.jp/)  
+[BlenderArtists](https://blenderartists.org/)  
+[Blender.jp](https://blender.jp/)  
 #### add-ons : need for game dev
 [Bundle Exporter](https://gitlab.com/AquaticNightmare/bundle_exporter) : export collections as axis corrected fbx for unity  
 [Magic Uv](https://docs.blender.org/manual/en/latest/addons/uv/magic_uv.html) : [doc](https://colorful-pico.net/wp/blender/add-ons/magic-uv/) : uv transfer  
@@ -97,6 +98,7 @@
 ### other Tools
 [Houdini/ Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/)  
 [Cascadeur](https://cascadeur.com/)  
+[MagicaVoxel](https://ephtracy.github.io/), [Vox Api](https://github.com/ephtracy/voxel-model)  
 [Slate Editor](https://www.facedownfx.com/)  
 [Unreal/ Forum](https://forums.unrealengine.com/)  
 
