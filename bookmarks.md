@@ -47,6 +47,7 @@
 [Data Oriented Design](https://www.dataorienteddesign.com/dodmain/)  
 [DirectX Shader Compiler wiki](https://github.com/microsoft/DirectXShaderCompiler/wiki/)  
 [Udemy](https://www.udemy.com/home/my-courses/learning/)  
+[Shader Tips and Tricks](https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/)  
 
 ### blender
 [Blender.org](https://www.blender.org/)  
@@ -55,6 +56,7 @@
 [blender/ Python-api](https://docs.blender.org/api/2.91/)  
 [blender/ Release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
 [g/ Sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
+[BlenderNation](https://www.blendernation.com/)  
 [BlenderArtists](https://blenderartists.org/)  
 [Blender.jp](https://blender.jp/)  
 #### add-ons : need for game dev
@@ -91,6 +93,7 @@
 [g/ Kejiro](https://github.com/keijiro?tab=repositories)  
 [g/ Cinight](https://github.com/cinight?tab=repositories)  
 [g/ Unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
+[g/ NewBlood](https://github.com/orgs/NewBloodInteractive/repositories)  
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi tips](https://tips.hecomi.com/)  
   
