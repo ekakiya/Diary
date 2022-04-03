@@ -73,6 +73,7 @@
 [Garment Tool](https://bartoszstyperek.gumroad.com/l/GarmentTool) :[doc](https://joseconseco.github.io/GarmentToolDocs/),  
 [DecalMachine](https://blendermarket.com/products/decalmachine), [MeshMachine](https://blendermarket.com/products/meshmachine),  
 [HardOps, BoxCutter](https://masterxeon1001.gumroad.com/l/hopscutter)  
+[StopMagic](https://github.com/aldrinsartfactory/stopmagic)  
 
 
 ### unity
@@ -91,11 +92,12 @@
 [g/ Aras-p](https://github.com/aras-p?tab=repositories), [gist/ Aras-p](https://gist.github.com/aras-p), [Aras-p/ blog](https://aras-p.info/blog/)  
 [Seblagarde/ blog](https://seblagarde.wordpress.com/)  
 [g/ Kejiro](https://github.com/keijiro?tab=repositories)  
-[g/ Cinight](https://github.com/cinight?tab=repositories)  
+[g/ Cinight](https://github.com/cinight?tab=repositories), [Cinight/ blog](https://cmwdexint.com/)  
 [g/ Unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
 [g/ NewBlood](https://github.com/orgs/NewBloodInteractive/repositories)  
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi tips](https://tips.hecomi.com/)  
+[JacksonDunstan/blog](https://www.jacksondunstan.com/)  
   
 
 ### other Tools
