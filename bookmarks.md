@@ -3,6 +3,7 @@
 
 ## contact
 [twitter/ Ekakiya](https://twitter.com/ekakiya)  
+[mastodon/ Ekakiya](https://mastodon.gamedev.place/@ekakiya)  
 [facebook/ Ekakiya](https://www.facebook.com/ekakiya)  
 [vimeo/ Ekakiya](https://vimeo.com/ekakiya)  
 [linkedIn/ Katsuhiko-omori](http://www.linkedin.com/pub/katsuhiko-omori/35/516/480)  
@@ -80,10 +81,10 @@
 [unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
 [unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
-[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@10.7/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@10.7/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.7/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.6/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@1.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/com.unity.jobs.html), [Hyb-renderer](https://docs.unity3d.com/Packages/com.unity.rendering.hybrid@0.11/manual/index.html)  
-[unity/ Forum](https://forum.unity.com/)  
-[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics)  
-[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference)  
+[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html)[EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html),[Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
+[unity/ Forum](https://forum.unity.com/),[DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/)  
+[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [Commits_CoreSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core/ShaderLibrary), [UrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal/Shaders), [HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime/Material)  
+[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3)  
 [unity/ Productboard Rendering and Vfx](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects), [unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html), [unity japan/ Package name](https://helpdesk.unity3d.co.jp/hc/ja/articles/900002171066-Unity-2020-1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95?mobile_site=true)  
 .  
 [Uninomicon](https://uninomicon.com/)  
@@ -123,6 +124,7 @@
 [about pBRDF @kurilab](https://qiita.com/kurilab/items/f9e48045bd1b9c130d0b)  
 [unity/ Animation Instancing](https://github.com/Unity-Technologies/Animation-Instancing),   
 [about Import blender Rigify rig to unity @dskjal](https://dskjal.com/blender/rigify-to-unity.html)  
+[MathUtilities @zalo](https://github.com/zalo/MathUtilities)  
   
 
   
