@@ -50,6 +50,9 @@
 [Udemy](https://www.udemy.com/home/my-courses/learning/)  
 [Shader Tips and Tricks](https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/)  
 
+### study
+[yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
+
 ### blender
 [Blender.org](https://www.blender.org/)  
 [blender/ Blog](https://code.blender.org/)  
@@ -81,11 +84,11 @@
 [unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
 [unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
-[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html)[EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html),[Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
-[unity/ Forum](https://forum.unity.com/),[DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/)  
-[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [Commits_CoreSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core/ShaderLibrary), [UrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal/Shaders), [HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime/Material)  
+[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
+[unity/ Forum](https://forum.unity.com/), [DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/)  
+[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [Commits_Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [_Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [_HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [_ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [_VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
 [g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3)  
-[unity/ Productboard Rendering and Vfx](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects), [unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html), [unity japan/ Package name](https://helpdesk.unity3d.co.jp/hc/ja/articles/900002171066-Unity-2020-1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95?mobile_site=true)  
+[unity/ Productboard](https://portal.productboard.com/unity/1-unity-platform-rendering-visual-effects), [unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html), [unity japan/ Package name/ page lost](https://helpdesk.unity3d.co.jp/hc/ja/articles/900002171066-Unity-2020-1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95?mobile_site=true)  
 .  
 [Uninomicon](https://uninomicon.com/)  
 [Cat like coding/ unity/ tutorials](https://catlikecoding.com/unity/tutorials/)  
@@ -99,6 +102,11 @@
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi tips](https://tips.hecomi.com/)  
 [JacksonDunstan/blog](https://www.jacksondunstan.com/)  
+.  
+[yt/ Unity](https://www.youtube.com/@unity/videos), [yt/ UnityJapan](https://www.youtube.com/@unity_japan/videos), [yt/ CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity/videos), [yt/ BostonUni](https://www.youtube.com/@BostonUnityGroup/videos)  
+
+### UE
+[yt/ Inside Unreal](https://www.youtube.com/playlist?list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB), [yt/ UE](https://www.youtube.com/@UnrealEngine/videos), [yt/ UeJp](https://www.youtube.com/@UnrealEngineJP/videos)  
   
 
 ### other Tools
