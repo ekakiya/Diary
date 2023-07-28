@@ -51,7 +51,7 @@
 [Shader Tips and Tricks](https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/)  
 
 ### study
-[yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
+[yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Kevin](https://www.youtube.com/@KevinsEnglishRoom/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
 
 ### blender
 [Blender.org](https://www.blender.org/)  
@@ -82,9 +82,9 @@
 
 ### unity
 [unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
-[unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html)  
+[unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html), [./ ScriptableRenderContext](https://docs.unity3d.com/ScriptReference/Rendering.ScriptableRenderContext.html), [./ CommandBuffer](https://docs.unity3d.com/ScriptReference/Rendering.CommandBuffer.html), [./ GraphicsFormat](https://docs.unity3d.com/ScriptReference/Experimental.Rendering.GraphicsFormat.html), [./ VisualEffect](https://docs.unity3d.com/ScriptReference/VFX.VisualEffect.html), [./ Playable](https://docs.unity3d.com/ScriptReference/Playables.Playable.html), [./ AnimationJob](https://docs.unity3d.com/ScriptReference/Animations.AnimationStream.html), [./ ParticleSystemJob](https://docs.unity3d.com/ScriptReference/ParticleSystemJobs.ParticleSystemJobData.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
-[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/manual/index.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
+[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/index.html), [./ EntityCommandBuffer](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/Unity.Entities.EntityCommandBuffer.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
 [unity/ Forum](https://forum.unity.com/), [DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/)  
 [g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [Commits_Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [_Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [_HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [_ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [_VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
 [g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3)  
@@ -95,13 +95,13 @@
 [g/ Phi-lira](https://github.com/phi-lira?tab=repositories)  
 [g/ Aras-p](https://github.com/aras-p?tab=repositories), [gist/ Aras-p](https://gist.github.com/aras-p), [Aras-p/ blog](https://aras-p.info/blog/)  
 [Seblagarde/ blog](https://seblagarde.wordpress.com/)  
-[g/ Kejiro](https://github.com/keijiro?tab=repositories)  
+[g/ Kejiro](https://github.com/keijiro?tab=repositories), [Kejiro/ memo](https://github.com/keijiro/Memo)  
 [g/ Cinight](https://github.com/cinight?tab=repositories), [Cinight/ blog](https://cmwdexint.com/)  
 [g/ Unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
 [g/ NewBlood](https://github.com/orgs/NewBloodInteractive/repositories)  
 [Mao_/ blog](https://qiita.com/mao_)  
-[Hekomi tips](https://tips.hecomi.com/)  
-[JacksonDunstan/blog](https://www.jacksondunstan.com/)  
+[Hekomi /tips](https://tips.hecomi.com/)  
+[JacksonDunstan/ blog](https://www.jacksondunstan.com/)  
 .  
 [yt/ Unity](https://www.youtube.com/@unity/videos), [yt/ UnityJapan](https://www.youtube.com/@unity_japan/videos), [yt/ CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity/videos), [yt/ BostonUni](https://www.youtube.com/@BostonUnityGroup/videos)  
 
