@@ -85,10 +85,14 @@
 [unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html), [./ ScriptableRenderContext](https://docs.unity3d.com/ScriptReference/Rendering.ScriptableRenderContext.html), [./ CommandBuffer](https://docs.unity3d.com/ScriptReference/Rendering.CommandBuffer.html), [./ GraphicsFormat](https://docs.unity3d.com/ScriptReference/Experimental.Rendering.GraphicsFormat.html), [./ VisualEffect](https://docs.unity3d.com/ScriptReference/VFX.VisualEffect.html), [./ Playable](https://docs.unity3d.com/ScriptReference/Playables.Playable.html), [./ AnimationJob](https://docs.unity3d.com/ScriptReference/Animations.AnimationStream.html), [./ ParticleSystemJob](https://docs.unity3d.com/ScriptReference/ParticleSystemJobs.ParticleSystemJobData.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
 [unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/index.html), [./ EntityCommandBuffer](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/Unity.Entities.EntityCommandBuffer.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
-[unity/ Forum](https://forum.unity.com/), [DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/)  
-[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [Commits_Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [_Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [_HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [_ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [_VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
-[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3), [./ Graphics](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3/Runtime/Export/Graphics), [./ CommandBuffer](https://github.com/Unity-Technologies/UnityCsReference/blob/2022.3/Runtime/Export/Graphics/RenderingCommandBuffer.cs)  
-[productboard/ unity](https://portal.productboard.com/unity), [unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html), [unity japan/ Package name/ page lost](https://helpdesk.unity3d.co.jp/hc/ja/articles/900002171066-Unity-2020-1-%E3%81%8B%E3%82%89%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%81%A7%E7%99%BA%E8%A6%8B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95?mobile_site=true)  
+[unity/ Forum](https://forum.unity.com/), [./ DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/), [./ postByEkakiya](https://forum.unity.com/search/36826432/)  
+[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [./ 2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [./ Commits_Package](https://github.com/Unity-Technologies/Graphics/commits/master/Packages), [./ _Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [./ _Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [./ _HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [./ _ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [./ _VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
+[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [./ 2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3), [./ Graphics](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3/Runtime/Export/Graphics), [./ CommandBuffer](https://github.com/Unity-Technologies/UnityCsReference/blob/2022.3/Runtime/Export/Graphics/RenderingCommandBuffer.cs)  
+[productboard/ unity](https://portal.productboard.com/unity)  
+.  
+[unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html)  
+[g/ BRG sample](https://github.com/Unity-Technologies/brg-shooter), [unity/ blog/ BRG sample](https://blog.unity.com/engine-platform/batchrenderergroup-sample-high-frame-rate-on-budget-devices), [unity/ Forum/ BRG sample](https://forum.unity.com/threads/batchrenderergroup-sample-high-frame-rate-even-on-a-budget-gles-device.1491388/)  
+[unity/ blog/ SRP batcher](https://blog.unity.com/engine-platform/srp-batcher-speed-up-your-rendering)  
 .  
 [Uninomicon](https://uninomicon.com/)  
 [Cat like coding/ unity/ tutorials](https://catlikecoding.com/unity/tutorials/)  
@@ -102,6 +106,7 @@
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi /tips](https://tips.hecomi.com/)  
 [JacksonDunstan/ blog](https://www.jacksondunstan.com/)  
+[g/ MRTK2 shader](https://github.com/microsoft/MixedRealityToolkit-Unity/blob/main/Assets/MRTK/StandardAssets/Shaders/MixedRealityStandard.shader)  
 .  
 [yt/ Unity](https://www.youtube.com/@unity/videos), [yt/ UnityJapan](https://www.youtube.com/@unity_japan/videos), [yt/ CodeMonkey](https://www.youtube.com/@CodeMonkeyUnity/videos), [yt/ BostonUni](https://www.youtube.com/@BostonUnityGroup/videos)  
 
@@ -122,7 +127,7 @@
 [IPv6Test](http://test-ipv6.com/index.html.ja_JP)  
 
 
-### etc
+### etc.
 [g/ Intel GameTechDev](https://github.com/orgs/GameTechDev/repositories)  
 [g/ MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity)  
 
@@ -173,7 +178,7 @@
 [Tokyu Hands](https://hands.net/)  
 [Akachan Honpo](https://akachan.omni7.jp/)  
   
-### etc
+### etc.
 [Cettire](https://www.cettire.com/)  
 [Worlds Library](https://www.worldlibrary.co.jp/library)  
 [Kinokuniya Books](https://www.kinokuniya.co.jp/disp/CSfDispListPageTop.jsp?dispNo=104002002001100)  
@@ -189,6 +194,8 @@
 ## subscribe
 ### game
 [Nintendo Store JP](https://store-jp.nintendo.com/software/), [EN](https://www.nintendo.com/games/game-guide/#filter/:q=&indexName=ncom_game_en_us_release_des)  
+[Steam](https://store.steampowered.com/explore/new/)  
+[Playdate](https://play.date/games/tags/all/)  
 [Playstation Store JP](https://store.playstation.com/ja-jp/pages/latest/)  
 [80lv](https://80.lv/)  
 [IndieGameDev](https://indiegamesplus.com/)  
@@ -213,10 +220,10 @@
 ### tokyo bousai info
 [Tokyo Bousai book](https://www.bousai.metro.tokyo.lg.jp/1002147/1008042/1008074.html)  
 [Japan Meteorological Agency/ Tokyo](https://www.jma.go.jp/bosai/#pattern=default&area_type=offices&area_code=130000)  
-[Covid19 infection trends](https://stopcovid19.metro.tokyo.lg.jp/), [Graph by tokyo-np](https://www.tokyo-np.co.jp/article/24233), [Number of beds](https://www.stopcovid19.jp/), [yahoo/ Kutsuna](https://news.yahoo.co.jp/byline/kutsunasatoshi)  
+[Moderna epi report tokyo](https://moderna-epi-report.jp/region/tokyo.html), [Covid19 tokyo portal](https://stopcovid19.metro.tokyo.lg.jp/), [yahoo/ Kutsuna](https://news.yahoo.co.jp/byline/kutsunasatoshi)  
 
 
-## etc
+## etc.
 [La Machine](https://www.lamachine.fr/)  
 
 
