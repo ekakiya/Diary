@@ -38,6 +38,7 @@
   
 ## tech
 ### shading
+[g/ Ekakiya/ ShaderFragment](https://github.com/ekakiya/shaderFragment)  
 [Selfshadow siggraph links](https://blog.selfshadow.com/)  
 [Advances in real-time rendering in 3D graphics and games](https://advances.realtimerendering.com/)  
 [g/ Google Filament](https://github.com/google/filament) : [doc](https://google.github.io/filament/Filament.html)  
@@ -49,6 +50,7 @@
 [DirectX Shader Compiler wiki](https://github.com/microsoft/DirectXShaderCompiler/wiki/)  
 [Udemy](https://www.udemy.com/home/my-courses/learning/)  
 [Shader Tips and Tricks](https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/)  
+[Code Corsair](https://www.elopezr.com)  
 
 ### study
 [yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Kevin](https://www.youtube.com/@KevinsEnglishRoom/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
@@ -57,9 +59,10 @@
 [Blender.org](https://www.blender.org/)  
 [blender/ Blog](https://code.blender.org/)  
 [blender/ Manual](https://docs.blender.org/manual/en/latest/)  
-[blender/ Python-api](https://docs.blender.org/api/2.91/)  
+[blender/ Python-api](https://docs.blender.org/api/current/)  
+[./ MeshLoop](https://docs.blender.org/api/current/bpy.types.MeshLoop.html#bpy.types.MeshLoop), [./ MeshID](https://docs.blender.org/api/current/bpy.types.Mesh.html), [./ AttributeGroup](https://docs.blender.org/api/current/bpy.types.AttributeGroup.html), [./ GreasePencilID](https://docs.blender.org/api/current/bpy.types.GreasePencil.html#greasepencil-id), [MaterialID](https://docs.blender.org/api/current/bpy.types.Material.html)  
 [blender/ Release notes](https://wiki.blender.org/wiki/Reference/Release_Notes)  
-[g/ Sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
+[g/ Blender](https://github.com/blender/blender) [g/ Sobotka mirror of the official blender git](https://github.com/sobotka?tab=repositories)  
 [BlenderNation](https://www.blendernation.com/)  
 [BlenderArtists](https://blenderartists.org/)  
 [Blender.jp](https://blender.jp/)  
@@ -79,19 +82,22 @@
 [HardOps, BoxCutter](https://masterxeon1001.gumroad.com/l/hopscutter)  
 [StopMagic](https://github.com/aldrinsartfactory/stopmagic)  
 
+[g/ sxchanneler-blender.py](https://github.com/FrandSX/sxchanneler-blender/blob/main/sxchanneler-blender.py)  
+
 
 ### unity
-[unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases)  
-[unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html), [./ ScriptableRenderContext](https://docs.unity3d.com/ScriptReference/Rendering.ScriptableRenderContext.html), [./ CommandBuffer](https://docs.unity3d.com/ScriptReference/Rendering.CommandBuffer.html), [./ GraphicsFormat](https://docs.unity3d.com/ScriptReference/Experimental.Rendering.GraphicsFormat.html), [./ VisualEffect](https://docs.unity3d.com/ScriptReference/VFX.VisualEffect.html), [./ Playable](https://docs.unity3d.com/ScriptReference/Playables.Playable.html), [./ AnimationJob](https://docs.unity3d.com/ScriptReference/Animations.AnimationStream.html), [./ ParticleSystemJob](https://docs.unity3d.com/ScriptReference/ParticleSystemJobs.ParticleSystemJobData.html)  
+[unity/ LTS-releases](https://unity3d.com/unity/qa/lts-releases), [unity/ releaseNotes](https://alpha.release-notes.ds.unity3d.com)  
+[unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html), [./ ScriptableRenderContext](https://docs.unity3d.com/ScriptReference/Rendering.ScriptableRenderContext.html), [./ CommandBuffer](https://docs.unity3d.com/ScriptReference/Rendering.CommandBuffer.html), [./ GraphicsFormat](https://docs.unity3d.com/ScriptReference/Experimental.Rendering.GraphicsFormat.html), [./ VisualEffect](https://docs.unity3d.com/ScriptReference/VFX.VisualEffect.html), [./ Playable](https://docs.unity3d.com/ScriptReference/Playables.Playable.html), [./ AnimationJob](https://docs.unity3d.com/ScriptReference/Animations.AnimationStream.html), [./ ParticleSystemJob](https://docs.unity3d.com/ScriptReference/ParticleSystemJobs.ParticleSystemJobData.html), [./ Properties](https://docs.unity3d.com/2022.3/Documentation/Manual/properties.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
-[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@14.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@14.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@14.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.1/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/index.html), [./ EntityCommandBuffer](https://docs.unity3d.com/Packages/com.unity.entities@1.0/api/Unity.Entities.EntityCommandBuffer.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.0/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.2/api/Unity.Mathematics.math.html)  
-[unity/ Forum](https://forum.unity.com/), [./ DevBlitz](https://forum.unity.com/categories/dev-blitz-day-archive.849/), [./ postByEkakiya](https://forum.unity.com/search/36826432/)  
-[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics), [./ 2022.3](https://github.com/Unity-Technologies/Graphics/tree/2022.3/staging), [./ Commits_Package](https://github.com/Unity-Technologies/Graphics/commits/master/Packages), [./ _Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [./ _Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [./ _HdrpSh](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [./ _ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [./ _VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
-[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [./ 2022.3](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3), [./ Graphics](https://github.com/Unity-Technologies/UnityCsReference/tree/2022.3/Runtime/Export/Graphics), [./ CommandBuffer](https://github.com/Unity-Technologies/UnityCsReference/blob/2022.3/Runtime/Export/Graphics/RenderingCommandBuffer.cs)  
+[unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@17.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@17.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.5/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.3/api/index.html), [./ EntityCommandBuffer](https://docs.unity3d.com/Packages/com.unity.entities@1.3/api/Unity.Entities.EntityCommandBuffer.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.4/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.html)  
+[unity/ Discussions](https://discussions.unity.com), [./ OfficeHours](https://discussions.unity.com/tag/office-hours), [./ postByEkakiya](https://discussions.unity.com/u/ekakiya/activity)  
+[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics/tree/master/Packages), [./ 6.0](https://github.com/Unity-Technologies/Graphics/tree/6000.0/staging/Packages), [./ Commits](https://github.com/Unity-Technologies/Graphics/commits/master/Packages), [./ _Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [./ _Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [./ _Hdrp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [./ _ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [./ _VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
+[g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [./ 6.0](https://github.com/Unity-Technologies/UnityCsReference/tree/6000.0), [./ Graphics](https://github.com/Unity-Technologies/UnityCsReference/tree/6000.0/Runtime/Export/Graphics), [./ CommandBuffer](https://github.com/Unity-Technologies/UnityCsReference/blob/6000.0/Runtime/Export/Graphics/RenderingCommandBuffer.cs)  
 [productboard/ unity](https://portal.productboard.com/unity)  
+[u/ j/ ebooks](https://unity3d.jp/game/game-ebooks/)  
 .  
-[unity/ Manual/ Order of execution](https://docs.unity3d.com/2020.3/Documentation/Manual/ExecutionOrder.html)  
-[g/ BRG sample](https://github.com/Unity-Technologies/brg-shooter), [unity/ blog/ BRG sample](https://blog.unity.com/engine-platform/batchrenderergroup-sample-high-frame-rate-on-budget-devices), [unity/ Forum/ BRG sample](https://forum.unity.com/threads/batchrenderergroup-sample-high-frame-rate-even-on-a-budget-gles-device.1491388/)  
+[unity/ Manual/ Order of execution](https://docs.unity3d.com/6000.0/Documentation/Manual/execution-order.html)  
+[g/ BRG sample](https://github.com/Unity-Technologies/brg-shooter), [unity/ blog/ BRG sample](https://blog.unity.com/engine-platform/batchrenderergroup-sample-high-frame-rate-on-budget-devices), [unity/ d/ BRG sample](https://discussions.unity.com/t/batchrenderergroup-sample-high-frame-rate-even-on-a-budget-gles-device/929009)  
 [unity/ blog/ SRP batcher](https://blog.unity.com/engine-platform/srp-batcher-speed-up-your-rendering)  
 .  
 [Uninomicon](https://uninomicon.com/)  
@@ -103,6 +109,7 @@
 [g/ Cinight](https://github.com/cinight?tab=repositories), [Cinight/ blog](https://cmwdexint.com/)  
 [g/ Unity3d-jp](https://github.com/orgs/unity3d-jp/repositories)  
 [g/ NewBlood](https://github.com/orgs/NewBloodInteractive/repositories)  
+[g/ zalo/ MathUtil](https://github.com/zalo/MathUtilities)  
 [Mao_/ blog](https://qiita.com/mao_)  
 [Hekomi /tips](https://tips.hecomi.com/)  
 [JacksonDunstan/ blog](https://www.jacksondunstan.com/)  
@@ -112,14 +119,41 @@
 
 ### UE
 [productBoard/ UE](https://portal.productboard.com/epicgames), [yt/ Inside Unreal](https://www.youtube.com/playlist?list=PLZlv_N0_O1gbggHiwNP2JBXGeD2h12tbB), [yt/ UE](https://www.youtube.com/@UnrealEngine/videos), [yt/ UeJp](https://www.youtube.com/@UnrealEngineJP/videos)  
+[Unreal/ Forum](https://forums.unrealengine.com/), [unreal/ dev community](https://dev.epicgames.com/community/)  
+  
+
+### iPad
+[Uniform](https://sparseal.com/uniform/)  
+[Feather](https://www.feather.art/ja)  
+[Nomad Sculpt](https://nomadsculpt.com)  
+[Shapr3D](https://www.shapr3d.com)  
+[Scaniverse](https://scaniverse.com)  
+[Pixaki](https://pixaki.com)  
+[Procreate](https://procreate.com/jp)  
+[Amadine](https://amadine.com)  
+[Sketches](https://www.tayasui.com/sketches/)  
+[1BitPencil](https://1bp.hal-val.com)  
+[Textastic](https://www.textasticapp.com)  
+[Codea](https://codea.io)  
+[Shade](https://shade.to)  
+[WorkingCopy](https://workingcopy.app)  
+[Samplr](http://samplr.net/?lang=ja)  
   
 
 ### other Tools
 [Houdini/ Hive](https://www.sidefx.com/houdini-hive/houdini-hive-worldwide/)  
 [Cascadeur](https://cascadeur.com/)  
+[Plasticity](https://www.plasticity.xyz)  
 [MagicaVoxel](https://ephtracy.github.io/), [Vox Api](https://github.com/ephtracy/voxel-model)  
+[Procreate Dreams /JAniCA](https://www.youtube.com/watch?v=ZO6kzORHnUw)  
 [Slate Editor](https://www.facedownfx.com/)  
-[Unreal/ Forum](https://forums.unrealengine.com/)  
+[Aseprite](https://www.aseprite.org)  
+[Rider/ Support](https://rider-support.jetbrains.com/hc/en-us)  
+[HomeBrew](https://formulae.brew.sh)  
+[Gitup](https://gitup.co)  
+[Sublime Text](https://www.sublimetext.com)  
+[Eijiro marugoto](https://www.threeyorkies.com/sentencesearch/)  
+[Ink](https://www.inklestudios.com/ink/), [Ink-unity](https://github.com/inkle/ink-unity-integration)  
 
 
 ### net
@@ -138,6 +172,10 @@
 [unity/ Animation Instancing](https://github.com/Unity-Technologies/Animation-Instancing),   
 [about Import blender Rigify rig to unity @dskjal](https://dskjal.com/blender/rigify-to-unity.html)  
 [MathUtilities @zalo](https://github.com/zalo/MathUtilities)  
+[calc of luminaires using radiance](https://www.radiance-online.org/community/workshops/2004-fribourg/presentations/Wandachowicz_paper.pdf)  
+[Rider/ enabling shader keywords](https://github.com/JetBrains/resharper-unity/wiki/Enabling-shader-keywords?utm_source=product&utm_medium=link&utm_campaign=RD&utm_content=2024.2)  
+[Krita/ split alpha](https://docs.krita.org/en/reference_manual/layers_and_masks/split_alpha.html)  
+[g/ sciPy](https://github.com/scipy/scipy)  
   
 
   
