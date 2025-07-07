@@ -209,7 +209,7 @@
 [Toyosu market](https://www.tsukijiichiba.com/)  
 [Lohaco by Askul](https://lohaco.jp/)  
 [Askul](https://www.askul.co.jp/)  
-[Dean & Deluca](https://store.deandeluca.co.jp/)  
+[Dean & Deluca](https://www.deandeluca.co.jp)  
 [Omni7](https://www.omni7.jp)  
 [Muji](https://www.muji.com/jp/ja/store)  
 [Seijo Ishii](https://www.seijoishii.com/)  
@@ -222,10 +222,10 @@
 [Kinokuniya Books](https://www.kinokuniya.co.jp/disp/CSfDispListPageTop.jsp?dispNo=104002002001100)  
 [Aoyama Book Center](https://aoyamabc.jp/pages/online-store)  
 [Fangamer](https://www.fangamer.jp/)  
-[United Designers](https://www.uniteddesigners.ae/)  
 [Noda Horo](https://www.nodahoro.com/)  
 [Haglofs/new backpack](https://www.haglofs.com/gb/en-gb/equipment/backpacks-bags/?srule=News)  
 [MoMA store](https://www.momastore.jp/)  
+[JerryJerryStore](https://shop.jellyjellycafe.com)  
 
 
 
@@ -254,6 +254,7 @@
 [47news](https://www.47news.jp/)  
 [Wired](https://wired.jp/)  
 [Timeout Tokyo](https://www.timeout.jp/tokyo/ja), [Dubai](http://www.timeoutdubai.com/), [LA](http://www.timeout.com/los-angeles), [San francisco](https://www.timeout.com/san-francisco), [London](http://www.timeout.com/london)  
+[Gougai Shibuya-ku](https://shibuya.goguynet.jp), [Shinagawa-ku](https://shinagawa.goguynet.jp), [Meguro-ku](https://meguro.goguynet.jp)   
 
 ### tokyo bousai info
 [Tokyo Bousai book](https://www.bousai.metro.tokyo.lg.jp/1002147/1008042/1008074.html)  
@@ -263,6 +264,10 @@
 
 ## etc.
 [La Machine](https://www.lamachine.fr/)  
+
+
+## bak
+[United Designers](https://www.uniteddesigners.ae/)  
 
 
 
