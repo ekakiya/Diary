@@ -54,6 +54,7 @@
 
 ### study
 [yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Kevin](https://www.youtube.com/@KevinsEnglishRoom/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
+[GDC Vault](https://gdcvault.com), [2025](https://gdcvault.com/browse/gdc-25), [2025free](https://gdcvault.com/free/gdc-25)  
 
 ### blender
 [Blender.org](https://www.blender.org/)  
@@ -236,7 +237,6 @@
 [Playdate](https://play.date/games/tags/all/)  
 [Playstation Store JP](https://store.playstation.com/ja-jp/pages/latest/)  
 [80lv](https://80.lv/)  
-[IndieGameDev](https://indiegamesplus.com/)  
 [Denfami](https://news.denfaminicogamer.jp/)  
 [Automaton](https://automaton-media.com/)  
 [4gamer](https://www.4gamer.net/)  
@@ -253,6 +253,8 @@
 ### news
 [47news](https://www.47news.jp/)  
 [Wired](https://wired.jp/)  
+
+### life
 [Timeout Tokyo](https://www.timeout.jp/tokyo/ja), [Dubai](http://www.timeoutdubai.com/), [LA](http://www.timeout.com/los-angeles), [San francisco](https://www.timeout.com/san-francisco), [London](http://www.timeout.com/london)  
 [Gougai Shibuya-ku](https://shibuya.goguynet.jp), [Shinagawa-ku](https://shinagawa.goguynet.jp), [Meguro-ku](https://meguro.goguynet.jp)   
 
@@ -268,6 +270,6 @@
 
 ## bak
 [United Designers](https://www.uniteddesigners.ae/)  
-
+[IndieGameDev](https://indiegamesplus.com/)  
 
 
