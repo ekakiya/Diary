@@ -51,6 +51,7 @@
 [Udemy](https://www.udemy.com/home/my-courses/learning/)  
 [Shader Tips and Tricks](https://interplayoflight.wordpress.com/2022/01/22/shader-tips-and-tricks/)  
 [Code Corsair](https://www.elopezr.com)  
+[BitTwiddlingHacks](https://graphics.stanford.edu/~seander/bithacks.html)  
 
 ### study
 [yt/ 3Blue1BrownJp](https://www.youtube.com/@3Blue1BrownJapan/videos), [yt/ Freya](https://www.youtube.com/@Acegikmo/videos), [yt/ Mrtin](https://www.youtube.com/@MartinDonald/videos), [yt/ 2minPapers](https://www.youtube.com/@TwoMinutePapers/videos), [yt/ GdcConf](https://www.youtube.com/@Gdconf/videos), [yt/ SigAdvReal-Time](https://www.youtube.com/@siggraphadvancesinreal-tim4519/videos), [yt/ Kevin](https://www.youtube.com/@KevinsEnglishRoom/videos), [yt/ Jst](https://www.youtube.com/@jstsciencechannel/videos), [yt/ GreatBig](https://www.youtube.com/@GreatBigStory/about), [yt/ kantaro](https://www.youtube.com/@kantaro1966/videos)  
@@ -91,8 +92,8 @@
 [unity/ Script api](https://docs.unity3d.com/ScriptReference/index.html), [./ ScriptableRenderContext](https://docs.unity3d.com/ScriptReference/Rendering.ScriptableRenderContext.html), [./ CommandBuffer](https://docs.unity3d.com/ScriptReference/Rendering.CommandBuffer.html), [./ GraphicsFormat](https://docs.unity3d.com/ScriptReference/Experimental.Rendering.GraphicsFormat.html), [./ VisualEffect](https://docs.unity3d.com/ScriptReference/VFX.VisualEffect.html), [./ Playable](https://docs.unity3d.com/ScriptReference/Playables.Playable.html), [./ AnimationJob](https://docs.unity3d.com/ScriptReference/Animations.AnimationStream.html), [./ ParticleSystemJob](https://docs.unity3d.com/ScriptReference/ParticleSystemJobs.ParticleSystemJobData.html), [./ Properties](https://docs.unity3d.com/2022.3/Documentation/Manual/properties.html)  
 [unity/ Manual/ Package safe](https://docs.unity3d.com/Manual/pack-safe.html)  
 [unity/ Manual/ Core RP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.core@17.0/manual/index.html), [URP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@17.0/manual/index.html), [HDRP](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@17.0/manual/index.html), [Burst](https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html), [Collections](https://docs.unity3d.com/Packages/com.unity.collections@2.5/manual/index.html), [Jobs](https://docs.unity3d.com/Manual/JobSystem.html), [Entities](https://docs.unity3d.com/Packages/com.unity.entities@1.3/api/index.html), [./ EntityCommandBuffer](https://docs.unity3d.com/Packages/com.unity.entities@1.3/api/Unity.Entities.EntityCommandBuffer.html), [EntitiesGraphics](https://docs.unity3d.com/Packages/com.unity.entities.graphics@1.4/manual/index.html), [Mathematics](https://docs.unity3d.com/Packages/com.unity.mathematics@1.3/api/Unity.Mathematics.math.html)  
-[unity/ Discussions](https://discussions.unity.com), [./ OfficeHours](https://discussions.unity.com/tag/office-hours), [./ postByEkakiya](https://discussions.unity.com/u/ekakiya/activity)  
-[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics/tree/master/Packages), [./ 6.0](https://github.com/Unity-Technologies/Graphics/tree/6000.0/staging/Packages), [./ Commits](https://github.com/Unity-Technologies/Graphics/commits/master/Packages), [./ _Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [./ _Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [./ _Hdrp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [./ _ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [./ _VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
+[unity/ Discussions](https://discussions.unity.com), [./ OfficeHours](https://discussions.unity.com/tag/office-hours), [./ postByEkakiya](https://discussions.unity.com/u/ekakiya/activity), [./ Roadmap](https://discussions.unity.com/tag/roadmap)  
+[g/ unity/ Graphics](https://github.com/Unity-Technologies/Graphics/tree/master/Packages), [./ 6.3](https://github.com/Unity-Technologies/Graphics/tree/6000.3/staging/Packages), [./ 6.0](https://github.com/Unity-Technologies/Graphics/tree/6000.0/staging/Packages), [./ Commits](https://github.com/Unity-Technologies/Graphics/commits/master/Packages), [./ _Core](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.core), [./ _Urp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.universal), [./ _Hdrp](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.render-pipelines.high-definition/Runtime), [./ _ShaderGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.shadergraph), [./ _VfxGraph](https://github.com/Unity-Technologies/Graphics/commits/master/Packages/com.unity.visualeffectgraph)  
 [g/ unity/ C# reference](https://github.com/Unity-Technologies/UnityCsReference), [./ 6.0](https://github.com/Unity-Technologies/UnityCsReference/tree/6000.0), [./ Graphics](https://github.com/Unity-Technologies/UnityCsReference/tree/6000.0/Runtime/Export/Graphics), [./ CommandBuffer](https://github.com/Unity-Technologies/UnityCsReference/blob/6000.0/Runtime/Export/Graphics/RenderingCommandBuffer.cs)  
 [productboard/ unity](https://portal.productboard.com/unity)  
 [u/ j/ ebooks](https://unity3d.jp/game/game-ebooks/)  
@@ -165,6 +166,7 @@
 ### etc.
 [g/ Intel GameTechDev](https://github.com/orgs/GameTechDev/repositories)  
 [g/ MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity)  
+[realtime vfx](https://realtimevfx.com)  
 
 ### memo
 [about unity ECS @f_](https://www.f-sp.com/entry/2019/04/18/175747)  
@@ -191,7 +193,7 @@
 [Kamakura Ogawaken](https://www.ogawaken.jp/item/)  
 [Romi-unie](https://www.romi-unie.jp/products/list)  
 [Misaki Donuts](http://misakidonuts.com/)  
-[Caramel Ghosthouse](https://sucreyshopping.jp/ic/caramelghosthouse)  
+[Caramel Ghosthouse](https://sucreyshopping.jp/caramelghosthouse)  
   
 ### foods
 [Natural cheese Needs](https://shopping.geocities.jp/needs-tokachi/)  
@@ -222,12 +224,14 @@
 [Worlds Library](https://www.worldlibrary.co.jp/library)  
 [Kinokuniya Books](https://www.kinokuniya.co.jp/disp/CSfDispListPageTop.jsp?dispNo=104002002001100)  
 [Aoyama Book Center](https://aoyamabc.jp/pages/online-store)  
+[T-Site](https://store.tsite.jp/daikanyama/)  
 [Fangamer](https://www.fangamer.jp/)  
 [Noda Horo](https://www.nodahoro.com/)  
-[Haglofs/new backpack](https://www.haglofs.com/gb/en-gb/equipment/backpacks-bags/?srule=News)  
+[Haglofs/new backpack](https://www.haglofs.com/en/equipment/backpacks-bags?sortBy=New)  
 [MoMA store](https://www.momastore.jp/)  
 [JerryJerryStore](https://shop.jellyjellycafe.com)  
-
+[SonicWire](https://sonicwire.com)  
+[BestService](https://www.bestservice.com/en/index.html)  
 
 
 ## subscribe
